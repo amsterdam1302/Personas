@@ -1,5 +1,5 @@
 package personas;
-
+//Esto es un comentario
 import java.util.regex.Pattern;
 
 /**
